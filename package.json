@@ -1,5 +1,5 @@
 {
-  "name": "kaysa-md",
+  "name": "ryoda-md",
   "version": "0.0.5",
   "description": "Simple whatsapp bot with multi device.",
   "main": "main.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
   },
-  "author": "fadlyid",
+  "author": "ryodaid",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
